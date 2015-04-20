@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KTMU_Fen</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="string_about_fen">FEN жонундо</string>
+    <string name="string_schedule">Расписание</string>
+    <string name="string_dictionary">Создук</string>
+    <string name="string_formulas">Формулы</string>
+    <string name="string_faculty_news">Жанылыктар</string>
+    <string name="title_activity_about_fen">AboutFenActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+</resources>
